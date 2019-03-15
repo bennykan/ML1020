@@ -2,29 +2,27 @@
 
 Github link: https://github.com/bennykan/ML1020
 
-Order of Files 
+Below is a list of code files for our work:
 
+- ML1020_Base_Model
 
-ML1020_Base_Model
+- Ml1020_Colab_Example
 
-Ml1020_Colab_Example
+- ML1020_Initial_GCP_Exploration
 
-ML1020_Initial_GCP_Exploration
+- ML1020_MOdels1_1_2
 
-ML1020_MOdels1_1_2
+- Models_3_4_5
 
-Models_3_4_5
+- Create_Submission_File
 
-Create_Submission_File
+- Model_Tuning
 
-Model_Tuning
+- Tune_CNN.py
 
-Tune_CNN.py
+- Helper Functions
 
-
-Helper Functions
-
-model_util.py
+- model_util.py
 
 Note: We also included the Kaggle submission files for the best 2 of the 9 models:
 - Model #3: Model_3_sample_submission_vgg19100.csv
