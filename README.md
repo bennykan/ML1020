@@ -1,5 +1,7 @@
 # ML1020
 
+Github link: https://github.com/bennykan/ML1020
+
 Order of Files 
 
 
@@ -23,5 +25,9 @@ Tune_CNN.py
 Helper Functions
 
 model_util.py
+
+Note: We also included the Kaggle submission files for the best 2 of the 9 models:
+- Model #3: Model_3_sample_submission_vgg19100.csv
+- Model #9: Model_9_sample_submission_ensemble150.csv
 
 
