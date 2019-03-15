@@ -2,7 +2,7 @@
 
 Github link: https://github.com/bennykan/ML1020
 
-Below is a list of code files for our work:
+Below is a list of code files for our work. We attempted 9 different models in total and each model is labeled with a number for easy references. Please refer to the final project paper for the labeling.
 
 - ML1020_Base_Model
 
